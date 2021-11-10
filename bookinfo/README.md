@@ -1,1 +1,0 @@
-# Bookinfo Application for Workshop
